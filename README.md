@@ -7,41 +7,49 @@ Here I demonstrate my skills in:
 
 Each project reflects my approach to results-oriented analytics.
 ## Table of Contents
+# Table of Contents
 - [Projects](#projects)
-  - [Project 1: Name 1](#project-1-name-1)
-  - [Project 2: Name 2](#project-2-name-2)
-  - [Project 3: Name 3](#project-3-name-3)
+- [Project 1: Name 1](#project-1-name-1)
+- [Project 2: Name 2](#project-2-name-2)
+- [Project 3: Name 3](#project-3-name-3)
 - [Skills Demonstrated](#skills-demonstrated)
 - [Tools Used](#tools-used)
 - [Key Features Used](#key-features-used)
 - [Contact](#contact)
 
+---
+
 ## Projects
 
-#### Project 1: Name 1
+### Project 1: Name 1
+(опис проекту)
 
+### Project 2: Name 2
+(опис проекту)
 
-#### Project 2: Name 2
+### Project 3: Name 3
+(опис проекту)
 
+---
 
-##### Project 3: Name 3
+## Skills Demonstrated
 
+(опиши свої навички)
 
+---
 
-### Skills Demonstrated
+## Tools Used
 
+(переліч інструменти)
 
+---
 
+## Key Features Used
 
-### Tools Used
+(переліч ключові фічі)
 
+---
 
-
-
-### Key Features Used
-
-
-
-
-### Contact
-
+## Contact
+Feel free to connect with me via LinkedIn:  
+https://www.linkedin.com/in/oksana-olar-993709162/
