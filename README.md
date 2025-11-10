@@ -129,10 +129,10 @@ In these projects, I demonstrated a wide range of skills, including effective da
 5. I used INDEX/MATCH, VLOOKUP, and SPLIT formulas, as well as other Google Sheet tools. I also analyzed the quality and integrity of data in the pivot table. This helped to search, structure, and organize data for deeper analytics.
 6. Data visualization. I created charts, heat maps, line graphs, and trend lines to clearly display the results of the analysis, supporting strategic decisions.
 7. Automation in Google Sheets. I used built-in functions and tools for dynamic analysis, automated calculations, and optimized data work.
-8. Designed a domain ontology and class taxonomy for Intelligent Diagnostics using formal concept modeling and AI-based knowledge structuring.
+8. Skills in research, ontology development, and knowledge extraction and structuring from data were acquired in the subject area of ​​"Intelligent Diagnostics of Computer Tools", which covers the basic concepts of technical diagnostics of computer systems and artificial intelligence.
 
 ## Tools Used
-Microsoft Excel: For building an ontology of subject areas, Intelligent Diagnostics of Computer Means and Artificial Intelligence, as well as for establishing relationships between terms and their concepts.
+Microsoft Excel: For building an ontology of subject areas, Intelligent Diagnostics of Computer Means and Artificial Intelligence, as well as for establishing relationships between terms and their concepts.  
 Google Sheets: For cleaning, organizing data, performing complex calculations, creating dynamic tables, and automating workflows using functions such as INDEX/MATCH, VLOOKUP, SPLIT, and Pivot Tables.
 
 ## Contact
