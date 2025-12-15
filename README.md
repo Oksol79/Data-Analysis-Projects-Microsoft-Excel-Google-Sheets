@@ -132,7 +132,8 @@ In these projects, I demonstrated a wide range of skills, including effective da
 8. Skills in research, ontology development, and knowledge extraction and structuring from data were acquired in the subject area of ​​"Intelligent Diagnostics of Computer Tools", which covers the basic concepts of technical diagnostics of computer systems and artificial intelligence.
 
 ## Tools Used
-Microsoft Excel: For building an ontology of subject areas, Intelligent Diagnostics of Computer Means and Artificial Intelligence, as well as for establishing relationships between terms and their concepts.  
+Microsoft Excel: For building an ontology of subject areas, Intelligent Diagnostics of Computer Means and Artificial Intelligence, as well as for establishing relationships between terms and their concepts. 
+
 Google Sheets: For cleaning, organizing data, performing complex calculations, creating dynamic tables, and automating workflows using functions such as INDEX/MATCH, VLOOKUP, SPLIT, and Pivot Tables.
 
 ## Contact
