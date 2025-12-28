@@ -1,7 +1,9 @@
 # Data Analysis Projects: Excel & Google Sheets
+
 In this project, I demonstrated my practical skills in working with Excel and Google Sheets.
-The project encompasses the entire data lifecycle, from data cleaning, processing, and analysis to creating dynamic reports and visualizations that facilitate informed decision-making.
-This project reflects my analytical approach and desire to transform data into valuable business insights.
+The project encompasses the entire data lifecycle, from data cleaning, processing, and analysis to the creation of dynamic reports and visualizations that facilitate informed decision-making.
+This project reflects my analytical approach and desire to transform data into valuable business insights.  
+
 ## Table of Contents
 - [Projects](#projects)
   - [Project 1: Sales Dynamics & ABC Analysis](#project-1-sales-dynamics--abc-analysis)
@@ -20,21 +22,23 @@ In this project, I analyzed and visualized sales dynamics by category, product, 
  - Countries - geographic data.
 
 The data was imported into Google Sheets, where a full analytics cycle was performed - from data quality checks to creating an interactive dashboard.  
-#### Project steps:  
+
+### Project steps:  
+
 **Step 1. Data preparation and cleaning.**  
 Checked the quality and integrity of data in all tables: errors, anomalies, and incorrect values ​​were detected. Processing of missing data was performed. New calculated columns were added to the Events table: Total Revenue, Total Cost, Total Profit, Profit Margin (%), and data from other tables was added.  
 
 **Step 2. The company's key business metrics were selected.**  
-The company's key performance metrics were calculated: Total number of orders, Total revenue and profit, Number of countries covered, Average profit per order.
+The company's key performance metrics were calculated: Total number of orders, Total revenue and profit, Number of countries covered, and Average profit per order.
 
 **Step 3. Sales Analytics.**   
 Sales were analyzed by product category, geography, and sales channels.  
-By product category: The most popular categories were identified, The revenue, expenses, and profit for each category were analyzed.  
-By geography: Sales by country, region, and subregion, The markets with the highest profitability indicators were identified.  
+By product category: The most popular categories were identified. The revenue, expenses, and profit for each category were analyzed.  
+By geography: Sales by country, region, and subregion. The markets with the highest profitability indicators were identified.  
 By sales channel: The effectiveness of online and offline channels was compared.  
 
 **Step 4. Order fulfillment time analysis.**  
-The interval between order and shipment was analyzed by: product categories, countries, regions. It was investigated whether delivery speed affects profitability.
+The interval between order and shipment was analyzed by product category, country, and region. It was investigated whether delivery speed affects profitability.
 
 **Step 5. Analysis of sales dynamics.**  
 The dynamics of sales by year, month, and day of the week were analyzed. The day of the week was determined using the WEEKDAY() function. The main trends and seasonal patterns were determined.  
@@ -43,11 +47,11 @@ The dynamics of sales by year, month, and day of the week were analyzed. The day
 A dashboard was created in Google Sheets with interactive graphs and charts. Key indicators were visualized: sales dynamics over time, profit by category and by country, and the online/offline sales ratio.
 
 **Step 7. ABC analysis.**  
-ABC analysis of products was conducted by sales volume, revenue, and profit (for the last year). Products were divided into categories A, B, and C according to the Pareto principle (80/20).
+An ABC analysis of products was conducted based on sales volume, revenue, and profit (for the last year). Products were divided into categories A, B, and C according to the Pareto principle (80/20).
 
 **8. Key findings.**  
-The most profitable product categories and countries were identified. The relationship between delivery speed and profitability was found.
-The periods with the highest sales volumes were determined. Analytical recommendations were formed for optimizing the assortment and logistics.
+The most profitable product categories and countries were identified. The relationship between delivery speed and profitability was found.  
+The periods with the highest sales volumes were determined. Analytical recommendations were developed to optimize the assortment and logistics.
 
 <img width="1898" height="867" alt="image" src="https://github.com/user-attachments/assets/e596379f-6445-4de7-a047-8abe077416bc" />
 
@@ -74,8 +78,8 @@ To build an ontology of the subject area "Intellectual diagnostics of computer m
  - A set of axioms was formed to limit the interpretation of concepts of the subject area.
 
 **Method for forming a taxonomy of classes**  
-One of the basic components of the ontology is a taxonomy of concepts, which involves classifying concepts in the subject area and constructing a hierarchical structure of classes.
-A taxonomy of concepts was formed for each of the above subject areas separately.
+One of the basic components of the ontology is a taxonomy of concepts, which involves classifying concepts in the subject area and constructing a hierarchical class structure.
+A taxonomy of concepts was developed for each of the above subject areas.
 To develop a taxonomy:
  - A complete list of terms (concepts) of the subject area was created, regardless of their properties and relations.
  - Сlasses and types of relations were defined, and a hierarchy of classes was developed (concepts were specified according to the class-subclass principle).
@@ -95,9 +99,9 @@ To build the class structure, the following tasks were solved:
 - formation of initial data on the subject area.
 - analysis of relationships between objects and properties.  
 
-To solve the first task, the knowledge of diagnostic experts was used, on the basis of which the tables were filled in.  
-To solve the second task, a method of automated formation of a taxonomy of concept classes was developed.  
-The basic information for distinguishing classes is the statement of the fact of the presence of certain properties in individual objects or groups of objects.  
+o solve the first task, the knowledge of diagnostic experts was used to fill in the tables.    
+To solve the second task, a method for automatically generating a taxonomy of concept classes was developed.     
+The basic information for distinguishing classes is the statement of the presence of certain properties in individual objects or groups of objects.    
 The method of forming a taxonomy of classes in a subject area is as follows. First, we form an abstract class structure:
 1) Remove all "0" columns from the table, since this means the absence of such a property in objects of the subject area. The reason may be an expert error, the inability to detect a property, for example, the absence of devices that can detect a property, etc.
 2) If there is a "0" row - enter a new column with an "abstract property" and assign it the value "1" for this row (there is no diagnostic information characterizing the object yet).
@@ -117,19 +121,19 @@ As a result of processing the table with diagnostic information based on the pro
   
 <img width="623" height="785" alt="image" src="https://github.com/user-attachments/assets/144362bd-67a7-431f-b70b-871f0398b61f" />
 
-The developed basic taxonomy of classes of objects of the subject area "Intelligent diagnostics of computer means" can be supplemented when new diagnostic information appears.
-Based on the proposed method, an algorithm for automatic generation of class taxonomy has been developed.
+The developed basic taxonomy of object classes in the subject area "Intelligent diagnostics of computer means" can be supplemented as new diagnostic information becomes available.  
+Based on the proposed method, an algorithm for automatically generating a class taxonomy has been developed.  
 
 ## Skills Demonstrated
-In these projects, I demonstrated a wide range of skills, including effective data analysis:
-1. Data cleaning. I handled missing values, corrected errors, and anomalies, ensuring the reliability of subsequent analysis.
-2. Statistical analysis. I calculated key performance indicators, measures of central tendency, and general statistics to derive meaningful conclusions about the structure and dynamics of the data.
-3. Sales analytics. I analyzed sales by product category, geography (countries, regions, subregions), and sales channels (online, offline). I studied the interval between orders and shipments, as well as sales dynamics by year, month, and category.
-4. ABC analysis. I conducted an ABC analysis using the Pareto principle. I classified products into A, B, and C based on sales volume, revenue, and profit. I presented the results using visualizations.
-5. I used INDEX/MATCH, VLOOKUP, and SPLIT formulas, as well as other Google Sheet tools. I also analyzed the quality and integrity of data in the pivot table. This helped to search, structure, and organize data for deeper analytics.
-6. Data visualization. I created charts, heat maps, line graphs, and trend lines to clearly display the results of the analysis, supporting strategic decisions.
-7. Automation in Google Sheets. I used built-in functions and tools for dynamic analysis, automated calculations, and optimized data work.
-8. Skills in research, ontology development, and knowledge extraction and structuring from data were acquired in the subject area of ​​"Intelligent Diagnostics of Computer Tools", which covers the basic concepts of technical diagnostics of computer systems and artificial intelligence.
+In these projects, I demonstrated a wide range of skills, including effective data analysis:  
+1. Data cleaning. I handled missing values, corrected errors, and anomalies, ensuring the reliability of subsequent analysis.  
+2. Statistical analysis. I calculated key performance indicators, measures of central tendency, and general statistics to draw meaningful conclusions about the data's structure and dynamics.  
+3. Sales analytics. I analyzed sales by product category, geography (countries, regions, subregions), and sales channels (online, offline). I studied the interval between orders and shipments, as well as sales dynamics by year, month, and category.  
+4. ABC analysis. I conducted an ABC analysis using the Pareto principle. I classified products into A, B, and C based on sales volume, revenue, and profit. I presented the results using visualizations.  
+5. I used INDEX/MATCH, VLOOKUP, and SPLIT formulas, as well as other Google Sheet tools. I also analyzed the quality and integrity of data in the pivot table. This helped to search, structure, and organize data for deeper analytics.  
+6. Data visualization. I created charts, heat maps, line graphs, and trend lines to clearly display the analysis results and support strategic decisions.  
+7. Automation in Google Sheets. I used built-in functions and tools for dynamic analysis, automated calculations, and optimized data work.  
+8. Skills in research, ontology development, and knowledge extraction and structuring from data were acquired in the subject area of ​​"Intelligent Diagnostics of Computer Tools", which covers the basic concepts of technical diagnostics of computer systems and artificial intelligence.  
 
 ## Tools Used
 Microsoft Excel: For building an ontology of subject areas, Intelligent Diagnostics of Computer Means and Artificial Intelligence, as well as for establishing relationships between terms and their concepts. 
@@ -138,4 +142,4 @@ Google Sheets: For cleaning, organizing data, performing complex calculations, c
 
 ## Contact
 Feel free to connect with me via LinkedIn:  
-https://www.linkedin.com/in/oksana-olar-993709162/
+https://www.linkedin.com/in/oksana-olar/
